@@ -6,7 +6,7 @@ import 'firebase/auth';
 //imported from app setting on webpage
 const config = {
 	{
-		/*Confings from firebase settings here...*/
+		/*Firebase settings Config here...*/
 	}
 };
 firebase.initializeApp(config);
